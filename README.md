@@ -1,1 +1,1 @@
-# awesome-RL-CV :octocat:
+# awesome-RLCV :octocat:
